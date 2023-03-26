@@ -4,7 +4,8 @@
 
 Презентация по ссылке https://cloud.mail.ru/public/SZKc/WzcRDcKoM
 <br>
-html версия проекта по ссылке https://cloud.mail.ru/public/Pthx/cKcMDSrYg
+<b> Внимание!!!</b> Если не все графики отображаются, используйте html версию https://cloud.mail.ru/public/Pthx/cKcMDSrYg
+
 
 ## Описание проекта
 Инвестиционный фонд «Shut Up and Take My Money» рассматривает перспективность рынка общественного питания Москвы.
